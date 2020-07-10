@@ -5,4 +5,6 @@ b=Hello
 echo ${b}
 c=Hello@all
 echo ${c}
+echo value of a =${b}
+
 
