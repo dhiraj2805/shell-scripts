@@ -15,3 +15,4 @@ echo -e "Today we have competition of ${COMPETITION}"
 
 DATE1=$(date +%F)
 echo "Good Morning,Today date is ${DATE1}"
+
