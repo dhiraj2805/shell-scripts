@@ -4,9 +4,9 @@
 pipeline {
     agent any
     stages{
-    stage("list"){
+    stage('list'){
     steps{
-    sh "ls -l"
+    sh 'ls -l'
  }
 }
 }
