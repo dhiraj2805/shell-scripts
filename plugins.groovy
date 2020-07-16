@@ -1,14 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@dhiraj2805 
-linuxautomations
-/
 jenkins-docker-groovy
 2
 021
