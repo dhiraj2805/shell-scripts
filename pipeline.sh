@@ -4,7 +4,7 @@
 pipeline {
     agent any
     stages{
-    stage('list'){
+    stage('List File'){
     steps{
     sh 'ls -l'
  }
