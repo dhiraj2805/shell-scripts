@@ -5,9 +5,8 @@ pipelineJob("newjob") {
       scm {
         git {
           remote {
-            url("https://github.com/dhiraj2805/shell-scripts/edit/master/.groovy")
-            credentials("GitUserPass")
-          }
+            url("https://DevOps-Batches@dev.azure.com/DevOps-Batches/DevOps48/_git/jenkins-seed-jobs")
+              }
           branch("*/master")
         }
       }
