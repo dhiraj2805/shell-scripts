@@ -1,23 +1,4 @@
 
-jenkins-docker-groovy
-2
-021
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-jenkins-docker-groovy/plugins.groovy
-@linuxautomations
-linuxautomations Create plugins.groovy
-Latest commit bf6ca5a 14 days ago
- History
- 1 contributor
-36 lines (36 sloc)  1002 Bytes
-  
 import jenkins.model.*
 import java.util.logging.Logger
 def logger = Logger.getLogger("")
