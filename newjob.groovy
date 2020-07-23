@@ -6,7 +6,7 @@ folder(PROJECT_NAME) {
 	displayName(PROJECT_NAME)
 	description(PROJECT_NAME + 'Project Folder')
 }
-folder('PROJECT_NAME+'/'+CIJOBS') {
+folder(PROJECT_NAME+'/'+CIJOBS) {
 	displayName('CIJOBS')
 	description(PROJECT_NAME + 'Project' + CIJOBS + 'Folder')
 }
