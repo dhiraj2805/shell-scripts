@@ -1,5 +1,0 @@
-job(sample) {
-  scm {
-    github("jenkinsci/job-dsl-plugin')
-           }
-           }
